@@ -1,0 +1,27 @@
+{
+  "name": "i18n-panel",
+  "version": "0.1.0",
+  "description": "A graphical component that shows country flags and bind the language corresponding.",
+  "keywords": [
+    "web-components",
+    "polymer",
+    "i18n"
+  ],
+  "authors": [
+    "Rémi Casado"
+  ],
+  "repository": {
+   "type": "git",
+   "url": "https://github.com/Yepikae/i18n-panel.git"
+  },
+  "main": "i18n-panel.html",
+  "license": "https://github.com/Yepikae/i18n-panel/LICENSE",
+  "dependencies": {
+    "polymer": "polymer/polymer#^1.0.0"
+  },
+  "devDependencies": {
+    "iron-component-page": "polymerelements/iron-component-page#^1.0.0",
+    "webcomponentsjs": "webcomponents/webcomponentsjs#^0.7.0"
+  },
+  "ignore": []
+}
