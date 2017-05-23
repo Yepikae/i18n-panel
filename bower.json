@@ -17,7 +17,7 @@
   "main": "i18n-panel.html",
   "license": "https://github.com/Yepikae/i18n-panel/LICENSE",
   "dependencies": {
-    "polymer": "polymer/polymer#^1.0.0"
+    "polymer": "Polymer/polymer#<2.*"
   },
   "devDependencies": {
     "iron-component-page": "polymerelements/iron-component-page#^1.0.0",
